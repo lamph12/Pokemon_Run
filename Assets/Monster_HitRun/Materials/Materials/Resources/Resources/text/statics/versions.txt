@@ -1,0 +1,1 @@
+{"Boss":"22","CharacterColor":"2","CharacterSkin":"14","CharacterWeapon":"6","Locale":"80","OfflineReward":"1","RemoteConfig":"42","ShadowRewardOrder":"4","ShopCostGroup":"5","ShopItem":"13","Stage":"5","Upgrade":"5"}

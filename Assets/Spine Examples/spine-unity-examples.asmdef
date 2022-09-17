@@ -1,0 +1,6 @@
+{
+  "name": "spine-unity-examples",
+  "references": [
+    "spine-unity"
+  ]
+}

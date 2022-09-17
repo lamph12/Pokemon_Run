@@ -1,0 +1,1 @@
+[{"en":"string","key":"string"},{"en":"COLOR","key":"LOBBY_BTN_COLOR"},{"en":"SKIN","key":"LOBBY_BTN_SKIN"},{"en":"WEAPON","key":"LOBBY_BTN_WEAPON"},{"en":"Swipe to Run! ","key":"LOBBY_TUTORIAL"}]

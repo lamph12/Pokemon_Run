@@ -1,0 +1,1 @@
+[{"id":"int","item_id":"int","item_type":"int","max_value":"int"},{"id":"1","item_id":"23","item_type":"2","max_value":"1000"},{"id":"2","item_id":"24","item_type":"2","max_value":"1000"}]

@@ -1,0 +1,15 @@
+namespace $NAMESPACE$
+{
+    public class $USERCLASSNAME$ : $BASECLASSNAME$
+    {
+        //------------------------------------------------------------------------------
+        // functions
+        //------------------------------------------------------------------------------
+#if UNITY_EDITOR
+        protected override void _EDITOR_AssignObjectsForUser()
+        {
+            
+        }
+#endif
+    }   
+}

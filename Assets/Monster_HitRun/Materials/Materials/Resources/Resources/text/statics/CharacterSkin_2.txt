@@ -1,0 +1,1 @@
+[{"id":"int","name":"string","resource_path":"string"},{"id":"1","name":"basic","resource_path":"CharacterSkin/Skin_Basic"}]

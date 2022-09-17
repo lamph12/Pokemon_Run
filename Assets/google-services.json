@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160400746164",
+    "project_id": "hero-wars-color-sort",
+    "storage_bucket": "hero-wars-color-sort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160400746164:android:1eed22ad4ec83e5311d9e1",
+        "android_client_info": {
+          "package_name": "com.falcon.p.gp.hero.wars.color.sort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160400746164-cbqg46ivk1pls7qfigcq4o5e92deuoid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlpwv2d7QIdtyLrtbM_fzIW0qOPTMoyWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160400746164-cbqg46ivk1pls7qfigcq4o5e92deuoid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
